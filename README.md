@@ -2,7 +2,7 @@
 
 Marginalia is an intelligent AI research assistant designed to help you dive deep into scientific literature. It searches arXiv, synthesizes information from papers, cites sources inline, and remembers your entire research journey.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F%3Cyour-username%3E%2Fmarginalia)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FHamzaviour%2FMarginalia)
 
 🔗 **Live Demo:** [marginalia-ochre-nu.vercel.app](https://marginalia-ochre-nu.vercel.app/)
 
